@@ -1,0 +1,37 @@
+[22-May-2025 02:15:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\coffee-shop\wp-includes\class-wpdb.php on line 1988
+[22-May-2025 02:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_bindings_source() in C:\xampp\htdocs\coffee-shop\wp-content\themes\twentytwentyfive\functions.php:131
+Stack trace:
+#0 C:\xampp\htdocs\coffee-shop\wp-includes\class-wp-hook.php(308): twentytwentyfive_register_block_bindings('')
+#1 C:\xampp\htdocs\coffee-shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\coffee-shop\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\coffee-shop\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\coffee-shop\wp-config.php(103): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\coffee-shop\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\coffee-shop\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\coffee-shop\wp-content\themes\twentytwentyfive\functions.php on line 131
+[22-May-2025 02:20:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\coffee-shop\wp-includes\class-wp-recovery-mode-email-service.php on line 372
+[22-May-2025 02:20:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\coffee-shop\wp-includes\class-wp-recovery-mode-email-service.php on line 373
+[22-May-2025 02:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_bindings_source() in C:\xampp\htdocs\coffee-shop\wp-content\themes\twentytwentyfive\functions.php:131
+Stack trace:
+#0 C:\xampp\htdocs\coffee-shop\wp-includes\class-wp-hook.php(308): twentytwentyfive_register_block_bindings('')
+#1 C:\xampp\htdocs\coffee-shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\coffee-shop\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\coffee-shop\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\coffee-shop\wp-config.php(103): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\coffee-shop\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\coffee-shop\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\coffee-shop\wp-content\themes\twentytwentyfive\functions.php on line 131
+[22-May-2025 02:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_bindings_source() in C:\xampp\htdocs\coffee-shop\wp-content\themes\twentytwentyfive\functions.php:131
+Stack trace:
+#0 C:\xampp\htdocs\coffee-shop\wp-includes\class-wp-hook.php(308): twentytwentyfive_register_block_bindings('')
+#1 C:\xampp\htdocs\coffee-shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\coffee-shop\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\coffee-shop\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\coffee-shop\wp-config.php(103): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\coffee-shop\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\coffee-shop\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\coffee-shop\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\coffee-shop\wp-content\themes\twentytwentyfive\functions.php on line 131
