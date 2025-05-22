@@ -1,0 +1,656 @@
+# Translation of Themes - Astral in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Astral package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-01 16:49:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Astral\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Astral is a free version  WordPress theme. It is a multi-purpose theme for blog, Education, News, Entertainment etc. You can create a beautiful homepage contain slider, callout, services, blogs, contact section. Support easy to use customization theme options. Astral theme also support Elementor plugin and contact form 7 plugin. Theme contains custom template page full width and page with left sidebar. Demo link - https://mywebapp.in/wordpress-free-themes/"
+msgstr "Astral es un tema gratuito para WordPress. Es un tema multiuso para blog, educación, noticias, entretenimiento, etc. Puedes crear una bonita página de inicio que contenga un carrusel, llamada a la acción, servicios, blogs, sección de contacto. Incluye opciones de personalización del tema fáciles de usar. El tema Astral también es compatible con los plugins Elementor y Contact Form 7. El tema contiene una plantilla de página personalizada de ancho completo y una página con barra lateral izquierda. Enlace a la demostración: https://mywebapp.in/wordpress-free-themes/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Astral"
+msgstr "Astral"
+
+#: inc/core/class-astral-customizer.php:550
+msgid "Blog Button text "
+msgstr "Texto del botón del blog"
+
+#: functions.php:188
+msgid "See Theme Demo"
+msgstr "Ver demostración del tema"
+
+#: inc/core/class-astral-customizer.php:117
+msgid "Inner Header Display On/Off"
+msgstr "Activar/desactivar la visualización de la cabecera interior"
+
+#: inc/core/class-astral-customizer.php:176
+msgid "Logo Height"
+msgstr "Altura del logotipo"
+
+#: inc/core/class-astral-customizer.php:158
+msgid "Logo Width"
+msgstr "Anchura del logotipo"
+
+#: inc/astral-pro-intro.php:133
+msgid "After that Activate the Theme from WordPress Site Dashboard -> Apperance -> Themes."
+msgstr "Después de eso, activa el tema desde el escritorio del sitio WordPress: «Apariencia -> Temas»."
+
+#: inc/astral-pro-intro.php:132
+msgid "Also take backup of your site and customization so any custom css changes you done in customizer can be retained."
+msgstr "Haz también una copia de seguridad de tu sitio y de la personalización para que cualquier cambio CSS personalizado que hayas hecho en el personalizador pueda ser mantenido."
+
+#: inc/astral-pro-intro.php:131
+msgid "Otherwise upload Theme using FTP(FileZilla) – Upload Theme Package in your \\server-directory\\wp-content\\themes"
+msgstr "De lo contrario, sube el tema usando FTP (FileZilla) - Sube el paquete de temas en el directorio de tu servidor «\\wp-content\\themes»"
+
+#: inc/astral-pro-intro.php:130
+msgid "Upload Theme Package Zip folder using Appearance -> Themes -> Add New -> Upload Theme."
+msgstr "Sube la carpeta ZIP del paquete de temas usando «Apariencia -> Temas -> Añadir nuevo -> Subir tema»."
+
+#: inc/astral-pro-intro.php:129
+msgid "Firstly Download Your Theme Package From Your MyWebApp Amember Account."
+msgstr "Primero descarga tu paquete de temas desde tu cuenta de MyWebApp Amember."
+
+#. Template Name of the theme
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: inc/astral-pro-intro.php:3
+msgid "<span style=\"\">Welcome Astral</span>"
+msgstr "<span style=\"\">Bienvenido a Astral</span>"
+
+#: inc/core/class-astral-customizer.php:724
+msgid "Size of each section title in px"
+msgstr "Tamaño del título de cada sección, en píxeles"
+
+#: inc/core/class-astral-customizer.php:723
+msgid "Section Heading Size"
+msgstr "Tamaño de la sección del encabezado"
+
+#: inc/core/class-astral-customizer.php:230
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: inc/core/class-astral-customizer.php:508
+msgid "Click above checkbox to show blog section on front page"
+msgstr "Haz clic en la casilla de verificación anterior para mostrar la sección del blog en la portada"
+
+#: inc/core/class-astral-customizer.php:507
+msgid "Blog Section On/Off"
+msgstr "Activar/desactivar la sección del blog"
+
+#: functions.php:190 inc/astral-pro-intro.php:97
+msgid "Free Vs Pro"
+msgstr "Gratis frente a Pro"
+
+#: functions.php:194
+msgid "Coupon Code "
+msgstr "Código del cupón "
+
+#: functions.php:194
+msgid " Astral Premium"
+msgstr " Astral Premium"
+
+#: inc/astral-pro-intro.php:111
+msgid "Theme Customizer Astral supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "El personalizador del tema Astral es compatible con el personalizador de temas para todos los ajustes del tema. Haz clic en «Personalizar» para personalizar tu sitio."
+
+#: inc/astral-pro-intro.php:110
+msgid "Theme Customizer"
+msgstr "Personalizador del tema"
+
+#: inc/astral-pro-intro.php:106
+msgid "Preview Demo"
+msgstr "Vista previa de la demostración"
+
+#: inc/astral-pro-intro.php:95
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: inc/astral-pro-intro.php:91
+msgid "General Setting"
+msgstr "Ajustes generales"
+
+#: inc/core/class-astral-customizer.php:277
+msgid "4-Column"
+msgstr "4 columnas"
+
+#: inc/core/class-astral-customizer.php:276
+msgid "3-Column"
+msgstr "3 columnas"
+
+#: inc/core/class-astral-customizer.php:275
+msgid "2-Column"
+msgstr "2 columnas"
+
+#: inc/core/class-astral-customizer.php:269
+msgid "Footer Widget Column"
+msgstr "Columna de widgets del pie de página"
+
+#: inc/core/class-astral-customizer.php:574
+msgid "Topbar On/Off"
+msgstr "Activar/desactivar la barra superior"
+
+#: inc/core/class-astral-customizer.php:103
+msgid "Scroll To Top Display On/Off"
+msgstr "Activar/desactivar la visualización de scroll hacia arriba"
+
+#: inc/core/class-astral-customizer.php:89
+msgid "Breadcrumb Display On/Off"
+msgstr "Activar/desactivar la visualización de las migas de pan"
+
+#: inc/core/class-astral-customizer.php:215
+msgid "Footer Background Color"
+msgstr "Color de fondo del pie de página"
+
+#: inc/core/class-astral-customizer.php:200
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: inc/core/class-astral-customizer.php:185
+msgid "Color Settings"
+msgstr "Ajustes del color"
+
+#: inc/astral-pro-intro.php:32
+msgid "Light and Easy to Customize WordPress Theme"
+msgstr "Tema para WordPress ligero y fácil de personalizar"
+
+#: inc/astral-pro-intro.php:28
+msgid "Astral - "
+msgstr "Astral - "
+
+#: inc/core/class-astral-customizer.php:124
+msgid "Header Settings"
+msgstr "Ajustes de la cabecera"
+
+#: inc/core/class-astral-customizer.php:75
+msgid "Boxed-layout"
+msgstr "Diseño en cajas"
+
+#: inc/core/class-astral-customizer.php:74
+msgid "Full-layout"
+msgstr "Diseño de ancho completo"
+
+#: inc/core/class-astral-customizer.php:68
+msgid "Layout"
+msgstr "Diseño"
+
+#: functions.php:180
+msgid "Version - "
+msgstr "Versión - "
+
+#: inc/astral-pro-intro.php:227
+msgid "Visit Our Site"
+msgstr "Visita nuestro sitio"
+
+#: inc/astral-pro-intro.php:226
+msgid "Our Aim is to be the most client-focused organisation, where we deliver extra importance to our client that gains their esteem and loyalty"
+msgstr "Nuestro objetivo es ser la organización más centrada en el cliente, donde damos una importancia adicional a nuestros clientes que logra su estima y lealtad"
+
+#: inc/astral-pro-intro.php:225
+msgid "Visit Our Latest Project"
+msgstr "Visita nuestro último proyecto"
+
+#: inc/astral-pro-intro.php:126
+msgid "Add New Page"
+msgstr "Añadir una nueva página"
+
+#: inc/astral-pro-intro.php:124
+msgid "Save changes"
+msgstr "﻿Guardar los cambios"
+
+#: inc/astral-pro-intro.php:123
+msgid "Select FrontPage Template option"
+msgstr "Selecciona la opción de la plantilla de la página de inicio"
+
+#: inc/astral-pro-intro.php:122
+msgid "Now Go to Customize -> Theme Settings -> General Settings."
+msgstr "Ahora, ve a «Personalizar > Ajustes del tema > Ajustes generales»."
+
+#: inc/astral-pro-intro.php:121
+msgid "Go to Appearance -> Customize > Homepage Settings -> select A static page option. Select Page which is created in last step"
+msgstr "Ve a «Apariencia -> Personalizar > Ajustes de la página de inicio» y selecciona la opción «Una página estática». Selecciona la página creada en el último paso"
+
+#: inc/astral-pro-intro.php:120
+msgid "Create a New Page > Home"
+msgstr "Crea una nueva página > Inicio"
+
+#: inc/astral-pro-intro.php:93
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/astral-pro-intro.php:143
+msgid "Free Support"
+msgstr "Soporte gratuito"
+
+#: inc/astral-pro-intro.php:142
+msgid "We resolve your issues ASAP."
+msgstr "Resolveremos tus problemas lo antes posible."
+
+#: inc/astral-pro-intro.php:141
+msgid "You are absolutely free to contact us and Astral team will be happy to help you."
+msgstr "Tienes total libertad para contactar con nosotros y el equipo de Astral estará encantado de ayudarte."
+
+#: inc/astral-pro-intro.php:3
+msgid "Welcome to Astral"
+msgstr "Bienvenido a Astral"
+
+#: inc/core/class-astral-customizer.php:706
+msgid "Theme Section Description Font Style"
+msgstr "Estilo de la fuente de la descripción de la sección del tema"
+
+#: inc/core/class-astral-customizer.php:693
+msgid "Theme Sesction Title Font Style"
+msgstr "Estilo de la fuente del título de la sección del tema"
+
+#: inc/core/class-astral-customizer.php:680
+msgid "Header Menu Font Style"
+msgstr "Estilo de la fuente del menú de la cabecera"
+
+#: inc/core/class-astral-customizer.php:665
+msgid "Logo Font Style"
+msgstr "Estilo de la fuente del logotipo"
+
+#: inc/core/class-astral-customizer.php:652
+msgid "H6"
+msgstr "H6"
+
+#: inc/core/class-astral-customizer.php:651
+msgid "H5"
+msgstr "H5"
+
+#: inc/core/class-astral-customizer.php:650
+msgid "H4"
+msgstr "H4"
+
+#: inc/core/class-astral-customizer.php:649
+msgid "H3"
+msgstr "H3"
+
+#: inc/core/class-astral-customizer.php:648
+msgid "H2"
+msgstr "H2"
+
+#: inc/core/class-astral-customizer.php:647
+msgid "H1"
+msgstr "H1"
+
+#: inc/core/class-astral-customizer.php:641
+msgid "size of post title in post page and single page"
+msgstr "tamaño del título de la entrada en la página de entradas y en la página individual"
+
+#: inc/core/class-astral-customizer.php:640
+msgid "Post title size"
+msgstr "Tamaño del título de la entrada"
+
+#: inc/core/class-astral-customizer.php:623
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions.php:186
+msgid "Submit a review"
+msgstr "Enviar una valoración"
+
+#: functions.php:185
+msgid " Are you are enjoying Astral? We would love to hear your feedback. Big thanks in advance."
+msgstr "¿Estás disfrutando de Astral? Nos encantaría escuchar tus comentarios. Muchas gracias por adelantado."
+
+#: functions.php:179
+msgid "Thank you for installing"
+msgstr "Gracias por instalar"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:72
+msgid "Leave a Reply"
+msgstr "Dejar una respuesta"
+
+#: comments.php:71
+msgid "Post Comment"
+msgstr "Publicar un comentario"
+
+#. translators: %s: reply to name
+#: comments.php:69
+msgid "Leave a Reply to %s"
+msgstr "Dejar una respuesta en %s"
+
+#: comments.php:67
+msgid " Log out?"
+msgstr " ¿Salir?"
+
+#: comments.php:67
+msgid "Logged in as "
+msgstr "Conectado como "
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios siguientes &rarr;"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:24
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: %s: The post title.
+#: comments.php:18
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en «%s»"
+
+#: inc/core/class-astral-customizer.php:615
+msgid "Email "
+msgstr "Correo electrónico "
+
+#: inc/core/class-astral-customizer.php:601
+msgid "Address "
+msgstr "Dirección "
+
+#: inc/core/class-astral-customizer.php:587
+msgid "Phone no. "
+msgstr "Número de teléfono "
+
+#: inc/core/class-astral-customizer.php:559
+msgid "Only Show on Topbar"
+msgstr "Mostrar solo en la barra superior"
+
+#: inc/core/class-astral-customizer.php:558
+msgid "Topbar Section"
+msgstr "Sección de la barra superior"
+
+#: inc/core/class-astral-customizer.php:536
+msgid "Blog description "
+msgstr "Descripción del blog "
+
+#: inc/core/class-astral-customizer.php:522
+msgid "Blog Title "
+msgstr "Título del blog "
+
+#: inc/core/class-astral-customizer.php:493
+msgid "Blog Options"
+msgstr "Opciones del blog"
+
+#: inc/core/class-astral-customizer.php:464
+msgid "Service description "
+msgstr "Descripción del servicio "
+
+#: inc/core/class-astral-customizer.php:450
+msgid "Service Title "
+msgstr "Título del servicio "
+
+#: inc/core/class-astral-customizer.php:435
+msgid "Click above checkbox to show service section on front page"
+msgstr "Marca la casilla de verificación anterior para mostrar la sección de servicios en la portada"
+
+#: inc/core/class-astral-customizer.php:434
+msgid "Service Section On/Off"
+msgstr "Activar/desactivar la sección de servicios"
+
+#: inc/core/class-astral-customizer.php:420
+msgid "Service Settings"
+msgstr "Ajustes del servicio"
+
+#: inc/core/class-astral-customizer.php:411
+msgid "Select page to show on about us section on frontpage template"
+msgstr "Selecciona la página a mostrar en la sección «Acerca de» en la plantilla de la portada"
+
+#: inc/core/class-astral-customizer.php:410
+msgid "Select about us page"
+msgstr "Seleccionar la página «Acerca de»"
+
+#: inc/core/class-astral-customizer.php:394
+msgid "Click above checkbox to show about section on front page"
+msgstr "Marca la casilla de verificación anterior para mostrar la sección «Acerca de» en la portada"
+
+#: inc/core/class-astral-customizer.php:393
+msgid "About Section On/Off"
+msgstr "Activar/desactivar la sección «Acerca de»"
+
+#: inc/core/class-astral-customizer.php:379
+msgid "About Us Section"
+msgstr "Sección «Sobre nosotros»"
+
+#: inc/core/class-astral-customizer.php:370
+msgid "Add Featured image in page"
+msgstr "Añadir una imagen destacada en la página"
+
+#: inc/core/class-astral-customizer.php:349
+msgid "Slider Options"
+msgstr "Opciones del carrusel"
+
+#: inc/core/class-astral-customizer.php:340
+msgid "background image show before breadcrumb area"
+msgstr "imagen de fondo mostrada antes del área de las migas de pan"
+
+#: inc/core/class-astral-customizer.php:339
+msgid "Inner banner Image"
+msgstr "Imagen del banner interior"
+
+#: inc/core/class-astral-customizer.php:326
+msgid "Inner banner"
+msgstr "Banner interior"
+
+#: inc/core/class-astral-customizer.php:318
+msgid "Footer Link"
+msgstr "Enlace del pie de página"
+
+#: inc/core/class-astral-customizer.php:304
+msgid "Footer Copyright"
+msgstr "Copyright del pie de página"
+
+#: inc/core/class-astral-customizer.php:290
+msgid "Footer Text"
+msgstr "Texto del pie de página"
+
+#: inc/core/class-astral-customizer.php:238
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/core/class-astral-customizer.php:51
+msgid "Click to keep the frontpage template?"
+msgstr "¿Hacer clic para mantener la plantilla de la portada?"
+
+#: inc/core/class-astral-customizer.php:50
+msgid "Frontpage Template"
+msgstr "Plantilla de la portada"
+
+#: inc/core/class-astral-customizer.php:36
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/core/class-astral-customizer.php:30
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: inc/core/class-astral-blog-section.php:63
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/core/class-astral-contact-section.php:81
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: inc/core/class-astral-contact-section.php:67
+msgid "Location"
+msgstr "Ubicación"
+
+#: inc/core/class-astral-contact-section.php:53
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inc/core/class-astral-main.php:140
+msgid "Sidebar for footer."
+msgstr "Barra lateral para el pie de página."
+
+#: inc/core/class-astral-customizer.php:253 inc/core/class-astral-main.php:139
+msgid "Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: inc/core/class-astral-main.php:127
+msgid "A sidebar for page and blog pages."
+msgstr "Una barra lateral para páginas y páginas del blog."
+
+#: inc/core/class-astral-main.php:126
+msgid "Primary Sidebar"
+msgstr "Barra lateral principal"
+
+#: inc/core/class-astral-main.php:24
+msgid "Social Links Menu"
+msgstr "Menú de enlaces sociales"
+
+#: inc/core/class-astral-main.php:23
+msgid "Primary Menu, menu_depth is 4"
+msgstr "En el menú principal, menu_depth es 4"
+
+#: inc/core/class-wp-bootstrap-navwalker.php:376
+#: inc/core/class-wp-bootstrap-navwalker_SAFE.php:376
+msgid "Add a menu"
+msgstr "Añadir un menú"
+
+#: inc/core/class-astral-about-section.php:47
+#: inc/core/class-astral-slider-section.php:56
+msgid "View More"
+msgstr "Ver más"
+
+#: inc/theme-function.php:108
+msgid "404 Error"
+msgstr "Error 404"
+
+#: inc/theme-function.php:93
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#. translators: %s: year.
+#: inc/theme-function.php:83
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: year.
+#: inc/theme-function.php:83
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#. translators: %s: month.
+#: inc/theme-function.php:80
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F \\d\\e Y"
+
+#. translators: %s: month.
+#: inc/theme-function.php:80
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+#. translators: %s: date.
+#: inc/theme-function.php:77
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: inc/theme-function.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/theme-function.php:32
+msgid "at"
+msgstr "a las"
+
+#: inc/theme-function.php:22
+msgid "Reply"
+msgstr "Responder"
+
+#: inc/header.php:158
+msgid "Toggle navigation"
+msgstr "Alternar la navegación"
+
+#. Template Name of the theme
+msgid "Page With Full Width"
+msgstr "Página de ancho completo"
+
+#: 404.php:37
+msgid "Go Home"
+msgstr "Ir a inicio"
+
+#: 404.php:34
+msgid "Page cannot be found"
+msgstr "No se ha podido encontrar la página"
+
+#: 404.php:33
+msgid "404"
+msgstr "404"
+
+#: 404.php:32
+msgid "Oops! The page you requested not found."
+msgstr "¡Vaya! No se ha encontrado la página que has solicitado."
+
+#: post-content.php:65 post-page.php:19
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: post-content.php:64 post-page.php:18
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: post-content.php:58 post-page.php:12
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: post-content.php:54 post-page.php:10 template-aboutus.php:47
+#: template-aboutus.php:58
+msgid "Read More"
+msgstr "Leer más"
+
+#: post-content.php:42
+msgid "Tags : "
+msgstr "Etiquetas: "
+
+#: post-content.php:33
+msgid "Categories :"
+msgstr "Categorías:"
+
+#. Template Name of the theme
+msgid "Page With Left Sidebar"
+msgstr "Página con barra lateral izquierda"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: category.php:18 inc/theme-function.php:63 inc/theme-function.php:105
+msgid "Home"
+msgstr "Inicio"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "http://demo.mywebapp.in/astral/"
+msgstr "https://demo.mywebapp.in/astral/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "http://mywebapp.in/"
+msgstr "https://mywebapp.in/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "wpmwa"
+msgstr "wpmwa"
