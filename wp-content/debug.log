@@ -37,3 +37,5 @@ Stack trace:
   thrown in C:\xampp\htdocs\coffee-shop\wp-content\themes\twentytwentyfive\functions.php on line 131
 [22-May-2025 03:17:50 UTC] Automatic updates starting...
 [22-May-2025 03:17:50 UTC] Automatic updates complete.
+[22-May-2025 03:54:40 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\coffee-shop\wp-admin\admin-header.php on line 41
+[22-May-2025 03:55:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 for query DELETE FROM wp_ratings WHERE rating_postid IN () made by include('/plugins/wp-postratings/postratings-manager.php')
