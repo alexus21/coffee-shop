@@ -1,0 +1,84 @@
+# Translation of Plugins - SKT Templates &#8211; 100% free Elementor &amp; Gutenberg templates - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - SKT Templates &#8211; 100% free Elementor &amp; Gutenberg templates - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-07 08:16:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - SKT Templates &#8211; 100% free Elementor &amp; Gutenberg templates - Development (trunk)\n"
+
+#: core/app/views/modules-page.php:22
+msgid "How to use SKT Templates?"
+msgstr "¿Cómo se usa SKT Templates?"
+
+#: core/app/class-skt-templates-admin.php:147
+msgid "Import Templates"
+msgstr "Importar plantillas"
+
+#. translators: Go to url.
+#: core/app/class-skt-templates-admin.php:173
+msgid "Template Directory"
+msgstr "Directorio de plantillas"
+
+#. translators: Go to url.
+#: core/app/class-skt-templates-admin.php:173
+msgid "You have activated SKT Templates plugin! Go to the %s to get started."
+msgstr "¡Has activado el plugin SKT Templates! Ve a %s para comenzar."
+
+#: core/app/class-skt-templates-admin.php:132
+msgid "About Templates"
+msgstr "Sobre las plantillas"
+
+#: core/app/class-skt-templates-admin.php:132
+#: core/app/class-skt-templates-admin.php:147
+msgid "SKT Templates General Options"
+msgstr "Opciones generales de las plantillas SKT"
+
+#: core/app/views/modules-page.php:25
+msgid "Check out our premium themes."
+msgstr "Consulta nuestros temas premium."
+
+#: core/app/views/modules-page.php:24
+msgid "Ready to import WordPress websites all made up using Elementor page builder. Be ready to import those Elementor templates into your existing website or fresh installs. Use the template blocks with your favourite themes whereas if you want to take the full juice out of those templates try SKT free themes. SKT Themes houses more than 300+ exciting designs and have been doling out updates to existing themes as well as fresh designs each year from 2013 and has a customer base from all over the world."
+msgstr "Listo para importar webs WordPress, todas creadas con el maquetador de páginas Elementor. Prepárate para importar esas plantillas de Elementor a tu web existente o a instalaciones nuevas. Usa los bloques de plantillas con tus temas favoritos, mientras que, si quieres sacar el máximo partido a esas plantillas, prueba los temas gratuitos de SKT. SKT Themes alberga más de 300 excitantes diseños y ha estado distribuyendo actualizaciones de temas existentes, así como diseños nuevos, cada año desde 2013 y tiene una base de clientes de todo el mundo."
+
+#: core/app/helpers/class-skt-templates-render-helper.php:88
+msgid "No option found for provided type"
+msgstr "No se ha encontrado ninguna opción para el tipo proporcionado"
+
+#: mods/template-directory/init.php:135
+msgid "SKT Templates Directory"
+msgstr "Directorio de plantillas SKT"
+
+#. Author URI of the plugin
+#: skt-templates.php
+msgid "https://www.sktthemes.org"
+msgstr "https://www.sktthemes.org"
+
+#. Author of the plugin
+#: skt-templates.php
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Description of the plugin
+#: skt-templates.php
+msgid "SKT Templates is an Elementor and Gutenberg themes library and allows you to select from over 100s of designs to choose from. All you need to do is view the demo and then select import and install. It takes care of the importing and allows you to edit the template from within your dashboard. It works with any popular theme or you can choose to use any theme from our <a href=\"https://www.sktthemes.org/product-category/free-wordpress-themes/\" rel=\"nofollow ugc\">SKT Themes free.</a> These templates allow you to import them into your existing website and edit them and use them to build professional websites. Importing a single page template is very easy and you can do it on your existing WordPress website as well."
+msgstr "SKT Templates es una biblioteca de temas para Elementor y Gutenberg y te permite seleccionar entre más 100 diseños para elegir. Todo lo que necesitas hacer es ver la demostración y luego seleccionar, importar e instalar. Se encarga de la importación y te permite editar la plantilla desde tu escritorio. Funciona con cualquier tema popular o puedes elegir usar cualquiera de nuestros <a href=\"https://www.sktthemes.org/product-category/free-wordpress-themes/\" rel=\"nofollow ugc\">temas SKT gratuitos.</a> Estas plantillas te permiten importarlas a tu web existente y editarlas y usarlas para crear webs profesionales. Importar una plantilla de una sola página es muy fácil y también lo puedes hacer en tu web WordPress existente."
+
+#. Plugin URI of the plugin
+#: skt-templates.php
+msgid "https://www.sktthemes.org/shop/ready-to-import-wordpress-sites/"
+msgstr "https://www.sktthemes.org/shop/ready-to-import-wordpress-sites/"
+
+#. Plugin Name of the plugin
+#: skt-templates.php core/app/class-skt-templates-admin.php:121
+#: core/app/class-skt-templates-admin.php:122
+#: core/app/class-skt-templates-admin.php:137
+#: core/app/class-skt-templates-admin.php:138
+#: core/app/views/modules-page.php:16
+msgid "SKT Templates"
+msgstr "SKT Templates"
