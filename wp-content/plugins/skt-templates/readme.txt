@@ -4,7 +4,7 @@ Tags: gutenberg, elementor, themes, one click demo import, templates
 Requires at least: 5.6
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 6.29
+Stable tag: 6.30
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,9 @@ Yes if your site import is done and you are currently editing via Elementor or i
 
 
 == Changelog ==
+= 6.30 =
+Reordering SKT Association in Elementor Templates.
+
 = 6.29 =
 Reordering SKT Industrial in Elementor Templates.
 

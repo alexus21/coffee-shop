@@ -386,6 +386,15 @@ if ( ! class_exists( '\SktThemes\PageTemplatesDirectory' ) ) {
 				'required_plugins' => array( 'elementor' => array( 'title' => __( 'Elementor Page Builder', 'skt-templates' ) ) ),
 			);
 			$templates_list = array(
+				'association-elementor'              => array(
+					'title'       => __( 'Association', 'skt-templates' ),
+					'description' => __( 'It downloads from our website sktthemes.org, once you do it you will get the exact preview like shown in the demo. Steps after downloading the theme: Upload it via appearance>themes>add new>upload theme zip file and activate the theme.', 'skt-templates' ),
+					'theme_url'   => esc_url('#'),
+					'demo_url'    => esc_url('https://demosktthemes.com/free/association/'),
+					'screenshot'  => esc_url('https://demosktthemes.com/free/association/association.jpg'),
+					'import_file' => esc_url('https://demosktthemes.com/free/association/association.json'),
+					'keywords'    => __( ' association, kindness, kindliness, compassion, feeling, goodwill, generosity, gentleness, charitableness, tolerance, mercy, humanitarianism, understanding, kindliness, liberality,nurture, relief, generosity, help, leniency, allowance, kindliness, favor, selflessness, unselfishness, love, kindheartedness, support, tenderness, goodness, donation, charitable foundation, offering, indulgence, kindliness, fund, assistance, benefaction, contribution, generosity, brotherly love, caring, clemency, concern, pity, sympathy, benignity, empathy, welfare, charities, gift, aid, help, grace, Association', 'skt-templates' ),
+				),			
 				'industrial-lite-elementor'              => array(
 					'title'       => __( 'SKT Industrial', 'skt-templates' ),
 					'description' => __( 'It downloads from our website sktthemes.org, once you do it you will get the exact preview like shown in the demo. Steps after downloading the theme: Upload it via appearance>themes>add new>upload theme zip file and activate the theme.', 'skt-templates' ),
@@ -1373,16 +1382,7 @@ if ( ! class_exists( '\SktThemes\PageTemplatesDirectory' ) ) {
 					'screenshot'  => esc_url('https://demosktthemes.com/free/municipality/municipality.jpg'),
 					'import_file' => esc_url('https://demosktthemes.com/free/municipality/municipality.json'),
 					'keywords'    => __( ' municipality, community, urban community, urban area, foundation, establishment, local government, city government, town government, policy, municipal government, municipal executive, municipal elections, Municipal law, municipal reform, welfare, district, village, city, town, metropolis, burg, province, non profit organization, NGO, governmental organizations, political jurisdictions, community resources, administrative agency, city club, food inspection, transportation, fire departments, Municipality', 'skt-templates' ),
-				),																								
-				'association-elementor'              => array(
-					'title'       => __( 'Association', 'skt-templates' ),
-					'description' => __( 'It downloads from our website sktthemes.org, once you do it you will get the exact preview like shown in the demo. Steps after downloading the theme: Upload it via appearance>themes>add new>upload theme zip file and activate the theme.', 'skt-templates' ),
-					'theme_url'   => esc_url('#'),
-					'demo_url'    => esc_url('https://demosktthemes.com/free/association/'),
-					'screenshot'  => esc_url('https://demosktthemes.com/free/association/association.jpg'),
-					'import_file' => esc_url('https://demosktthemes.com/free/association/association.json'),
-					'keywords'    => __( ' association, kindness, kindliness, compassion, feeling, goodwill, generosity, gentleness, charitableness, tolerance, mercy, humanitarianism, understanding, kindliness, liberality,nurture, relief, generosity, help, leniency, allowance, kindliness, favor, selflessness, unselfishness, love, kindheartedness, support, tenderness, goodness, donation, charitable foundation, offering, indulgence, kindliness, fund, assistance, benefaction, contribution, generosity, brotherly love, caring, clemency, concern, pity, sympathy, benignity, empathy, welfare, charities, gift, aid, help, grace, Association', 'skt-templates' ),
-				),																							
+				),																																															
 				'aquarium-elementor'              => array(
 					'title'       => __( 'Aquarium', 'skt-templates' ),
 					'description' => __( 'It downloads from our website sktthemes.org, once you do it you will get the exact preview like shown in the demo. Steps after downloading the theme: Upload it via appearance>themes>add new>upload theme zip file and activate the theme.', 'skt-templates' ),

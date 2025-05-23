@@ -187,7 +187,7 @@ if ( is_array( $templates_array ) ) { ?>
 					</div>
 					<div class="theme-details">
                     	<?php esc_html_e('Use this layout for your business or personal website. Just click on the import to start using this template for your next website. All the blocks as shown with images will appear on your edit area.', 'skt-templates');?>   
-                        <p><a href="<?php echo esc_url('https://www.sktthemes.org/shop/all-themes/');?>" target="_blank"><?php esc_html_e('Buy All Themes', 'skt-templates'); ?></a><i><?php esc_html_e( ' (360+ templates) for just $69. Features include inner pages, page/post layouts, header/footer layouts, site layout, color/font options and 1 year unlimited support.', 'skt-templates' ); ?></i></p>
+                        <p><a href="<?php echo esc_url('https://www.sktthemes.org/shop/all-themes/');?>" target="_blank"><?php esc_html_e('Buy All Themes', 'skt-templates'); ?></a><i><?php esc_html_e( ' (399+ templates) for just $69. Features include inner pages, page/post layouts, header/footer layouts, site layout, color/font options and 1 year unlimited support.', 'skt-templates' ); ?></i></p>
 					</div>
 					<?php
 					if ( ! empty( $properties['required_plugins'] ) && is_array( $properties['required_plugins'] ) ) { ?>
