@@ -83,7 +83,7 @@ class RM_Stripe_Service implements RM_Gateway_Service
             $response='';
             $items_str= implode(', ',$items);
             try{
-                \Stripe\Stripe::setApiKey($stripe_api_key); //sk_test_GsT4d690JZzbFk48w0GhsrIX
+                \Stripe\Stripe::setApiKey($stripe_api_key);
                 $charge = \Stripe\Charge::create(
                 array(
                     "amount" => $pricing_details->total_price*100, // amount in cents
